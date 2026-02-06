@@ -11,7 +11,7 @@
 - 🔐 **User Authentication** (JWT Login/Register)
 - 📝 **Task Management** – Create, Edit, Delete
 - ⭐ **Favorites** – Mark tasks as favorite
-- 🗂️ **Categories\*\* – Organize tasks
+- 🗂️ **Categories** – Organize tasks
 - 🖼️ **Profile Image Upload**
 - ⚡ **Optimistic UI Updates**
 - 📱 **Responsive Design**
