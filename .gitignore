@@ -1,0 +1,48 @@
+# ==========================
+# Backend (Node/Express)
+# ==========================
+
+/server/node_modules/          # Backend dependencies
+/server/logs/                  # Backend logs folder
+/server/*.log                  # Any backend log files
+
+# Environment variables (backend)
+server/.env
+server/.env.local
+server/.env.development.local
+server/.env.test.local
+server/.env.production.local
+
+# Optional build folder if backend is transpiled (e.g., TypeScript)
+server/dist/
+
+# ==========================
+# Frontend (React)
+# ==========================
+
+/client/node_modules/          # Frontend dependencies
+/client/build/                 # React build output
+/client/dist/                  # Optional frontend dist folder
+
+# ==========================
+# Misc / OS / IDE
+# ==========================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# JetBrains / WebStorm / IntelliJ
+.idea/
+
+# Others
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
